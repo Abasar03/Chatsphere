@@ -4,7 +4,6 @@ ChatSphere is a real-time communication platform that enables smooth and interac
 
 ## Table of Contents
 - [ChatSphere](#ChatSphere)
-- [Project Overview](#project-overview)
 - [Key Features](#key-features)
   - [Backend (FastAPI)](#backend-fastapi)
   - [Frontend (ReactJs)](#frontend-reactjs)
@@ -16,9 +15,6 @@ ChatSphere is a real-time communication platform that enables smooth and interac
 - [License](#license)
 - [Future Enhancements](#future-enhancements)
 
-## Project Overview
-
-ChatSphere is a comprehensive communication platform featuring user management, real-time chat, friend management, and story sharing functionalities. It uses **FastAPI** and **MySQL** for the backend, and **ReactJs** for the frontend. WebSockets are used for real-time communication.
 
 ## Key Features
 
